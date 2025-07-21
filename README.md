@@ -43,7 +43,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 
 ## 📫 Get in Touch
 
-- 📧 [twitter]((https://x.com/sina_magh))
+
 - 🌐 [www.alphageek.ir](https://www.alphageek.ir)
 
 ---
