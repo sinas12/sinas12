@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sina Ma — Welcome to My GitHub
+# 👋 Hi, I'm Sina Maghsoudi — Welcome to My GitHub
 
 I'm a self-taught programmer and computer science graduate with a passion for **frontend development**, **cybersecurity**, and **Python scripting**. I love building clean and responsive web interfaces using **TailwindCSS**, solving security challenges, and exploring creative automation.
 
