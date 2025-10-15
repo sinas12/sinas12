@@ -24,12 +24,13 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Basic penetration testing
 - Exploit development (introductory level)
 - Bug bounty research and vulnerability reporting
+- CEH ( Certified Ethical Hacker )
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - Linux (daily driver)
 - Docker (containerization & deployment)
-- Visual Studio Code
+
 
 ### 📈 Additional Expertise
 - Cryptocurrency trading & technical analysis
@@ -45,7 +46,9 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 
 
 - 🌐 [www.alphageek.ir](https://www.alphageek.ir)
-
+- 🌐 [www.sinamagh.com](https://sinamagh.com/)
+- 𝕏 [Twitter](https://x.com/sina_magh)
+- 🔴 [Youtube](https://www.youtube.com/@sinamaghs)
 ---
 
 _Thanks for visiting my GitHub! I'm always open to new collaborations, remote opportunities, or simply chatting about tech and ideas._
