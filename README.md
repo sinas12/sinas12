@@ -49,6 +49,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 
 ### 📈 Additional Expertise
 - Cryptocurrency trading & technical analysis
+- Adobe Photoshop ( professional level )
 - Automation scripting for repetitive tasks
 - Online business operations:
   - SEO & content optimization
