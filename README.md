@@ -48,6 +48,9 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Linux (daily driver)
 - Docker (containerization & deployment)
 - Vmware and Virtualbox
+- Nmap
+- Wireshark
+
 
 ### 📈 Additional Expertise
 - Cryptocurrency trading & technical analysis
