@@ -5,6 +5,16 @@ I'm a self-taught programmer and computer engineering graduate with a passion fo
 Over the past few years, I’ve launched educational platforms, worked as a freelance developer, participated in CTFs, and studied trading psychology all while constantly learning and growing my technical skills.
 
 ---
+## 🌍 Languages
+| Language            | Proficiency                                                     |
+| ------------------- | --------------------------------------------------------------- |
+| **English**         | Fluent | IELTS International English Language Test (Score: 6.5) |
+| **German**          | A1                                                              |
+| **Turkish**         | B2                                                              |
+| **Persian (Farsi)** | Native / Mother tongue                                          |
+| **Turkmen**         | Native / Mother tongue                                          |
+
+
 
 ## 🔧 Technical Skills & Areas of Interest
 
