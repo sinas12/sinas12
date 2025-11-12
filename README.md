@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Sina Maghsoudi | Welcome to My GitHub
 
-I'm a self-taught programmer and computer engineering graduate with a passion for **frontend development**, **cybersecurity**, **Python scripting** , and **Financial markets** . I love building clean and responsive web interfaces using **TailwindCSS**, solving security challenges, and exploring creative automation.
+I'm a self-taught programmer and **computer engineering graduate** with a deep passion for **cybersecurity** and **ethical hacking** . whether it’s attacking as a Red Teamer or defending as part of the Blue Team. I love exploring system vulnerabilities, simulating real-world attacks, and developing secure solutions that strengthen digital defenses.
+
+Beyond cybersecurity, I also enjoy **frontend development**, **Python scripting**, and studying **financial markets**. I take pride in building clean, responsive web interfaces with TailwindCSS, automating repetitive tasks, and **constantly learning** new ways to merge creativity with security.
 
 Over the past few years, I’ve launched educational platforms, worked as a freelance developer, participated in CTFs, and studied trading psychology all while constantly learning and growing my technical skills.
 
@@ -28,7 +30,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 ### 🌐 Web Development
 - TailwindCSS
 - Next.js (basic proficiency)
-- WordPress (custom themes & plugins)
+- WordPress ( Developing custom themes & plugins - Very Professional Level )
 
 ### 🔐 Cybersecurity
 - Metasploit Framework
@@ -49,7 +51,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 
 ### 📈 Additional Expertise
 - Cryptocurrency trading & technical analysis
-- Adobe Photoshop ( professional level )
+- Adobe Photoshop ( Professional Level )
 - Automation scripting for repetitive tasks
 - Online business operations:
   - SEO & content optimization
