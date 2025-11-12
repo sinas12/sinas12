@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Sina Maghsoudi — Welcome to My GitHub
+# 👋 Hi, I'm Sina Maghsoudi | Welcome to My GitHub
 
 I'm a self-taught programmer and computer engineering graduate with a passion for **frontend development**, **cybersecurity**, **Python scripting** , and **Financial markets** . I love building clean and responsive web interfaces using **TailwindCSS**, solving security challenges, and exploring creative automation.
 
-Over the past few years, I’ve launched educational platforms, worked as a freelance developer, participated in CTFs, and studied trading psychology — all while constantly learning and growing my technical skills.
+Over the past few years, I’ve launched educational platforms, worked as a freelance developer, participated in CTFs, and studied trading psychology all while constantly learning and growing my technical skills.
 
 ---
 
@@ -11,6 +11,8 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 ### 💻 Programming Languages
 - Python
 - JavaScript
+- Powershell (introductory level)
+- Linux Bash
 - HTML & CSS
 
 ### 🌐 Web Development
@@ -25,12 +27,15 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Exploit development (introductory level)
 - Bug bounty research and vulnerability reporting
 - CEH ( Certified Ethical Hacker )
+- Web Application Pentesting
+- Wireless Hacking
+- Vulnerability Scanning and Assessment
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - Linux (daily driver)
 - Docker (containerization & deployment)
-
+- Vmware and Virtualbox
 
 ### 📈 Additional Expertise
 - Cryptocurrency trading & technical analysis
@@ -39,7 +44,8 @@ Over the past few years, I’ve launched educational platforms, worked as a free
   - SEO & content optimization
   - Video editing & branding
   - Sales and user experience strategy
-
+  - Online Marketing
+  - Viral Content Creation
 ---
 
 ## 📫 Get in Touch
