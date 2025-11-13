@@ -54,6 +54,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Vmware and Virtualbox
 - Nmap
 - Wireshark
+- Burp Suite
 
 
 ### 📈 Additional Expertise
