@@ -26,6 +26,7 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Powershell (introductory level)
 - Linux Bash
 - HTML & CSS
+- PHP
 
 ### 🌐 Web Development
 - TailwindCSS
@@ -42,6 +43,9 @@ Over the past few years, I’ve launched educational platforms, worked as a free
 - Web Application Pentesting
 - Wireless Hacking
 - Vulnerability Scanning and Assessment
+- Network
+- Network Security
+- Kali linux
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
